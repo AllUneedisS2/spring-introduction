@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.hellospring.repository.MemoryMemberRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-08T12:59:19" hostname="Bomins-MacBook-Air.local" time="0.041">
+  <properties/>
+  <testcase name="saveTest()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.037"/>
+  <testcase name="findByNameTest()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.001"/>
+  <testcase name="findAllTest()" classname="hello.hellospring.repository.MemoryMemberRepositoryTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

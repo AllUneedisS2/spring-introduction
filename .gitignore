@@ -11,9 +11,11 @@ target/
 
 # Gradle 관련 파일 제외
 .gradle/
+!gradle/wrapper/gradle-wrapper.jar
 
 # Maven 관련 파일 제외
 .mvn/
+!mvn/wrapper/maven-wrapper.jar
 
 # 로그 및 기타 임시 파일
 *.log
